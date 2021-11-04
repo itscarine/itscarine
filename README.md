@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itscarine
-- 👀 I’m interested in UX Design
-- 🌱 I’m currently learning Front-End Development
-- 💞️ I’m looking to collaborate on fun projects
+- 👀 I’m obsessive about good UX Design
+- 🌱 I’m currently learning Frontend Development
+- 💞️ I’m looking for my next adventure
 - 📫 How to reach me carine@hey.com
 
 <!---
